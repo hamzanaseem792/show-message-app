@@ -1,0 +1,3 @@
+first of all I have to write html to make a box , and in that box I will put a input , button and message Icon 
+then I have to do some styling and I will also make it responsive 
+at the end I willl write js for it , I will access the inner text by dom and then add the event listener on button and after that I access the outpput by dom and set it to inner value
